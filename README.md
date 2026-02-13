@@ -12,7 +12,7 @@ Built using **Hono (Edge runtime) + TypeScript + Cloudflare D1 + Chart.js**, opt
 ## 🚀 Live Demo
 🔗 Sandbox Demo: https://3000-i250p9qev8lfnrhmlbuag-2e1b9533.sandbox.novita.ai  
 🔗 API Base: `/api/`  
-🔗 GitHub Repo: *(Add after deployment)*
+🔗 GitHub Repo: https://github.com/Rupam179/Student-Performance-Predictor
 
 ---
 
