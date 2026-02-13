@@ -246,7 +246,7 @@ MIT License — Free for educational use.
 **Rupam Mukherjee**
 
 GitHub: [https://github.com/Rupam179](https://github.com/Rupam179)
-LinkedIn: [https://linkedin.com/in/rupam-mukherjee](https:www.linkedin.com/in/rupam-mukherjee-647a092b0)
+LinkedIn: [https:www.linkedin.com/in/rupam-mukherjee-647a092b0](https:www.linkedin.com/in/rupam-mukherjee-647a092b0)
 Email: [mukherjeerupam14@gmail.com](mailto:mukherjeerupam14@gmail.com)
 
 ---
