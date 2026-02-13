@@ -1,10 +1,4 @@
-Perfect — below is the **clean raw Markdown** (no extra explanations).
-You can **directly copy-paste into `README.md`** and GitHub will render it properly.
-
----
-
-```markdown
-# 🎓 Student Performance Predictor
+## 🎓 Student Performance Predictor
 
 **Author:** Rupam Mukherjee  
 
