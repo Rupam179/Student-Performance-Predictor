@@ -1,5 +1,7 @@
 # Student Performance Predictor
 
+Author: Rupam Mukherjee
+
 A comprehensive full-stack web application for tracking, analyzing, and predicting student academic performance using machine learning algorithms. Built with Hono framework and Cloudflare Pages, fully responsive for both mobile and desktop devices.
 
 ## 🌟 Project Overview
@@ -295,9 +297,12 @@ MIT License - Feel free to use this project for educational purposes.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Support
+## 👨‍💻 Author
+Rupam Mukherjee
 
-For issues and questions, please open an issue on GitHub.
+GitHub: @Rupam179
+LinkedIn: Rupam Mukherjee
+Email: mukherjeerupam14@gmail.com
 
 ---
 
