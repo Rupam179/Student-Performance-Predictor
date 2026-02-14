@@ -254,8 +254,3 @@ MIT License — Free for educational use.
 Give the repository a **star** and share feedback!
 
 ```
-
----
-
-If you want next level ⭐: I can add **GitHub badges (Stars, Tech stack icons, License, Deploy status)** — recruiters instantly notice those.
-```
